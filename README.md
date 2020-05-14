@@ -1,4 +1,6 @@
 # WARPY
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDragon-Born%2Fwarpy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FDragon-Born%2Fwarpy?ref=badge_shield)
+
 
 **Warpy** is a command-line program to get [WARP+](https://blog.cloudflare.com/announcing-warp-plus/) as [WireGuard](https://www.wireguard.com/) configuration
 
@@ -19,3 +21,7 @@ To run **warpy**, simply execute
 ### How does `warpy` get WARP+ quota for free?
 
 It currently get quota by faking referrers since there is no way to pay for premium version outside of 1.1.1.1 app, but it is recommended to pay for it on your phone if you think their service is good.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDragon-Born%2Fwarpy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDragon-Born%2Fwarpy?ref=badge_large)
